@@ -17,4 +17,4 @@ sqlite3 docs/schedule.db 'select * from schedule'
 
 ## Licence
 
-This repository does not state a licence.
+MIT. See [LICENSE](LICENSE).
